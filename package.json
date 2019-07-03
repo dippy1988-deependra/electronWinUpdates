@@ -1,0 +1,24 @@
+{
+  "name": "electronwin",
+  "version": "1.0.0",
+  "description": "implements updates",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dippy1988-deependra/electronWinUpdates.git"
+  },
+  "author": "zeke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dippy1988-deependra/electronWinUpdates/issues"
+  },
+  "homepage": "https://github.com/dippy1988-deependra/electronWinUpdates#readme",
+  "devDependencies": {
+    "electron": "^5.0.6",
+    "electron-packager": "^14.0.1"
+  }
+}
